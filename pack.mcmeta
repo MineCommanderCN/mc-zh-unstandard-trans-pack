@@ -2,5 +2,11 @@
     "pack": {
         "pack_format": 5,
         "description": "不标准译名资源包\nBy MineCommander"
+    },
+    "language":{
+        "zh_cn":{
+            "name":"简体中文",
+            "region":"中国"
+        }
     }
 }
